@@ -1,0 +1,9 @@
+customer_id,name,age,city,purchase_amount,signup_date
+1,John,25,New York,250,2023-01-05
+2,Maria,28,Los Angeles,,2023-02-10
+3,,35,Chicago,300,2023-01-20
+4,Raj,NaN,New York,200,2023-03-12
+5,Amy,22,,150,2023-05-02
+6,John,25,New York,250,2023-01-05
+7,Karan,29,Los Angeles,-50,2023-06-15
+8,Lisa,abc,Boston,280,not-a-date

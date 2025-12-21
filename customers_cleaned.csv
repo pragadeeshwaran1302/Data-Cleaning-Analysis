@@ -1,0 +1,7 @@
+customer_id,name,age,city,amount_spent,signup_date,signup_year,is_high_purchase
+1,John,25.0,New York,250.0,2023-01-05,2023,False
+2,Maria,28.0,Los Angeles,197.14285714285714,2023-02-10,2023,False
+3,Unknown,35.0,Chicago,300.0,2023-01-20,2023,True
+5,Amy,22.0,Not Provided,150.0,2023-05-02,2023,False
+6,John,25.0,New York,250.0,2023-01-05,2023,False
+7,Karan,29.0,Los Angeles,0.0,2023-06-15,2023,False
